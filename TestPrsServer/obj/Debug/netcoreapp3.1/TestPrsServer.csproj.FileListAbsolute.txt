@@ -1,0 +1,13 @@
+C:\repos\TestPrsServer\TestPrsServer\obj\Debug\netcoreapp3.1\TestPrsServer.csproj.AssemblyReference.cache
+C:\repos\TestPrsServer\TestPrsServer\obj\Debug\netcoreapp3.1\TestPrsServer.AssemblyInfoInputs.cache
+C:\repos\TestPrsServer\TestPrsServer\obj\Debug\netcoreapp3.1\TestPrsServer.AssemblyInfo.cs
+C:\repos\TestPrsServer\TestPrsServer\obj\Debug\netcoreapp3.1\TestPrsServer.csproj.CoreCompileInputs.cache
+C:\repos\TestPrsServer\TestPrsServer\bin\Debug\netcoreapp3.1\TestPrsServer.exe
+C:\repos\TestPrsServer\TestPrsServer\bin\Debug\netcoreapp3.1\TestPrsServer.deps.json
+C:\repos\TestPrsServer\TestPrsServer\bin\Debug\netcoreapp3.1\TestPrsServer.runtimeconfig.json
+C:\repos\TestPrsServer\TestPrsServer\bin\Debug\netcoreapp3.1\TestPrsServer.runtimeconfig.dev.json
+C:\repos\TestPrsServer\TestPrsServer\bin\Debug\netcoreapp3.1\TestPrsServer.dll
+C:\repos\TestPrsServer\TestPrsServer\bin\Debug\netcoreapp3.1\TestPrsServer.pdb
+C:\repos\TestPrsServer\TestPrsServer\obj\Debug\netcoreapp3.1\TestPrsServer.dll
+C:\repos\TestPrsServer\TestPrsServer\obj\Debug\netcoreapp3.1\TestPrsServer.pdb
+C:\repos\TestPrsServer\TestPrsServer\obj\Debug\netcoreapp3.1\TestPrsServer.genruntimeconfig.cache
